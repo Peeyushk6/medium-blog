@@ -3,7 +3,7 @@
 We’ll be building a medium-like blog platform using the following stack:
 
 1. **Backend**: Cloudflare Workers
-2. **Validation**: Zod
+2. **Validation**: Zod - By publishing your package to npm
 3. **Language**: TypeScript
 4. **ORM**: Prisma (with connection pooling)
 5. **Database**: PostgreSQL
